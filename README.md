@@ -37,10 +37,3 @@ Over time, the generator ideally becomes good enough to produce images indisting
 ## 📊 Dataset
 
 We use the [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset, which contains 70,000 28x28 grayscale images of 10 different fashion item classes (t-shirts, shoes, bags, etc.).
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/fashion-mnist-gan.git
-   cd fashion-mnist-gan
